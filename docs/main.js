@@ -1,0 +1,1 @@
+console.log('This is code in main.js file');
